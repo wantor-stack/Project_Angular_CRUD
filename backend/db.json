@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Geladeira",
+      "price": 5000.89
+    },
+    {
+      "name": "Samsung S20 +",
+      "price": "5913.89",
+      "id": 4
+    },
+    {
+      "name": "Produto Teste",
+      "price": 125.98,
+      "id": 5
+    },
+    {
+      "name": "Veio do Formulário",
+      "price": 9.99,
+      "id": 6
+    },
+    {
+      "name": "Freezer",
+      "price": "3040.58",
+      "id": 7
+    },
+    {
+      "name": "Notebook",
+      "price": "3654.89",
+      "id": 8
+    },
+    {
+      "name": "Lapis de cor",
+      "price": "13.56",
+      "id": 9
+    },
+    {
+      "name": "Copo de plástico",
+      "price": "23.45",
+      "id": 10
+    },
+    {
+      "name": "Alcool gel",
+      "price": "12.95",
+      "id": 11
+    },
+    {
+      "name": "Bolacha Mabel",
+      "price": "5.56",
+      "id": 13
+    }
+  ]
+}
