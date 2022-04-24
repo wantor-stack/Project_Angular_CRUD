@@ -15,7 +15,9 @@ Frontend Angular CRUD application
 </p>
 
 <br>
-
+<p align="center">
+  <img alt="CreateProduct" src="https://github.com/wantor-stack/Project_Angular_CRUD/blob/master/src/assets/img/createproduct.PNG" width="100%">
+</p>
 
 
 ## 🚀 Tecnologies
@@ -44,8 +46,9 @@ Utilities:
 ## 💻 Project
 
 This project is a single page application (SPA), responsive, developing with Angular CLI, Angular Material and Schematics to create, read, update and delete products from a database connected to the json-server. Contains the following components:
+<p>&nbsp;</p>
 
-
+<img alt="Components" src="https://github.com/wantor-stack/Project_Angular_CRUD/blob/master/src/assets/img/components.PNG">
 
 <p>&nbsp;</p>
 
